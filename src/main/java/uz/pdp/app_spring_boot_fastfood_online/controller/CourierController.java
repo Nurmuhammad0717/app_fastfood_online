@@ -1,7 +1,6 @@
 package uz.pdp.app_spring_boot_fastfood_online.controller;
 
 import jakarta.validation.Valid;
-import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
