@@ -1,6 +1,5 @@
 package uz.pdp.app_spring_boot_fastfood_online.service;
 
-import uz.pdp.app_spring_boot_fastfood_online.entity.Bonus;
 import uz.pdp.app_spring_boot_fastfood_online.payload.ApiResult;
 import uz.pdp.app_spring_boot_fastfood_online.payload.BonusCrudDTO;
 import uz.pdp.app_spring_boot_fastfood_online.payload.BonusDTO;

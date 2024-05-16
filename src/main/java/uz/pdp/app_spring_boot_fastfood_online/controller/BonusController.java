@@ -2,9 +2,7 @@ package uz.pdp.app_spring_boot_fastfood_online.controller;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.hibernate.validator.constraints.pl.REGON;
 import org.springframework.web.bind.annotation.*;
-import uz.pdp.app_spring_boot_fastfood_online.entity.Bonus;
 import uz.pdp.app_spring_boot_fastfood_online.payload.ApiResult;
 import uz.pdp.app_spring_boot_fastfood_online.payload.BonusCrudDTO;
 import uz.pdp.app_spring_boot_fastfood_online.payload.BonusDTO;
